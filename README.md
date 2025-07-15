@@ -26,8 +26,6 @@ The goal is to help business stakeholders monitor sales performance, identify tr
 | **Sales Overview**               | Total Sales, Total Profit, and Orders KPI |
 | **Sales Trend Analysis**         | Monthly Sales and Profit line charts      |
 | **Category & Subcategory Sales** | Bar charts for top-performing products    |
-| **Geographical Insights**        | Map visualization for regional sales      |
-| **Order Status Summary**         | Pie chart of order status distribution    |
 | **Customer Insights**            | Customer type and segment analysis        |
 
 ---
