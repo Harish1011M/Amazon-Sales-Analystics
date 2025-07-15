@@ -47,7 +47,7 @@ The goal is to help business stakeholders monitor sales performance, identify tr
 ## ⚙️ Tools & Technologies
 
 * **Power BI Desktop (.pbix file)**
-* Data Cleaning & Transformation: **Power Query (M Language)**
+* Data Cleaning & Transformation: **Power Query**
 * Data Modeling: Relationships & DAX Measures
 * Visualization: Interactive Dashboards
 
@@ -61,7 +61,6 @@ The goal is to help business stakeholders monitor sales performance, identify tr
 * **Sales by Category / Sub-Category**
 * **Sales by State / City**
 * **Monthly Sales Trend**
-* **Order Status Distribution**
 
 ---
 
